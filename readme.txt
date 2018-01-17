@@ -1,2 +1,2 @@
 Learning Git now
-Demonstrating how the diff works
+Demonstrating unstaging with this. This is the original version
