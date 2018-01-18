@@ -1,3 +1,9 @@
 developed by A
+
 implement product(){
+}
+
+//updated by developer b
+
+Implement ProductDetails(){
 }
