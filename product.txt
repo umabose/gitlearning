@@ -1,3 +1,7 @@
 developed by A
+
 implement product(){
+}
+
+enhancement Product offer DEtails){
 }
