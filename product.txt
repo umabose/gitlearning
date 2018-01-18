@@ -5,3 +5,8 @@ implement product(){
 
 enhancement Product offer DEtails){
 }
+//updated by developer b
+
+Implement ProductDetails(){
+}
+
