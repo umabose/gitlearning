@@ -3,3 +3,11 @@ developed by b
 Implement Shoppingcart(){
 Added fixes for handling currency description
 }
+}
+
+Addfeature to reduceitems(){
+enhancement 1
+enhancement 2
+enhancement 3
+completed enhancements
+}
