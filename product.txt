@@ -8,5 +8,6 @@ enhancement Product offer DEtails){
 //updated by developer b
 
 Implement ProductDetails(){
+Adding fixes for images
 }
 
