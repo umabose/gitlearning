@@ -2,6 +2,7 @@ developed by b
 
 Implement Shoppingcart(){
 Added fixes for handling currency description
+added some more fixes
 }
 }
 
