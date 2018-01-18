@@ -4,6 +4,7 @@ implement product(){
 }
 
 enhancement Product offer DEtails){
+Adding newyear offer expiry handling in this feature
 }
 //updated by developer b
 
